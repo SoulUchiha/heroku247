@@ -7,7 +7,7 @@ then go to the node modules folder,
 then go to folder named @souluchiha,
 then go to folder named herokuping,
 then go to index.js and replace,
-"https://icmusic.herokuapp.com/" by ur heroku url.
+"ur url" by ur heroku url.
 
 ### how to start in Visual Studio Code?
 go to terminal,
@@ -24,7 +24,7 @@ then do npm i heroku247,
 then go to node_modules folder,
 then go to folder named heroku247,
 then go to index.js and replace,
-"https://icmusic.herokuapp.com/" by ur heroku url
+"your url" by ur heroku url
 
 ### how to start in replit?
 go to shell and then type cd ./node_modules/heroku247
