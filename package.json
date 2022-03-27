@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "heroku-self-ping": "^2.0.1",
+    "heroku247": "^1.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "name": "heroku247",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Soul Uchiha",
+  "license": "ISC",
+  "description": ""
+}
